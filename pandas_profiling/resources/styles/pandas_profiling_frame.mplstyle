@@ -1,0 +1,14 @@
+axes.grid: False
+axes.labelsize: 13
+axes.linewidth: 1.2
+axes.unicode_minus: False
+figure.figsize: 8.0, 5.5
+font.size: 12
+grid.linewidth: 1.5
+legend.fancybox: True
+legend.fontsize: 12
+legend.frameon: True
+legend.handlelength: 1
+lines.linewidth: 1.2
+xtick.labelsize: 10
+ytick.labelsize: 10

@@ -1,0 +1,9 @@
+black>=19.10b0
+pdoc3>=0.8.1
+pre-commit>=2.5.1
+recommonmark>=0.6.0
+sphinx-autodoc-typehints>=1.11.0
+sphinx-multiversion>=0.2.3
+sphinx_rtd_theme>=0.5.0
+twine>=3.1.1
+wheel>=0.34.2
