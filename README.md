@@ -6,6 +6,6 @@ Fork of [*Pandas Profiling*](https://github.com/pandas-profiling/pandas-profilin
 
 ## Contact
 
-luca310795@gmail.com
+luca.dellalib@gmail.com
 
 ---------------------------------------------------------------------------------------------------------
